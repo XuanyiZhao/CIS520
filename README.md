@@ -1,1 +1,1 @@
-# Implementing traditional ML algorithms from scratch
+# Implement traditional ML algorithms from scratch
