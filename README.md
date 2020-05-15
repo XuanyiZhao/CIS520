@@ -2,10 +2,10 @@
 
 ## Results
 
-### Logistic Regression
+* Logistic Regression
 
-### Ridge Regression
+* Ridge Regression
 
-### SVM
+* SVM
 
-### Neural Networks
+* Neural Networks
