@@ -4,6 +4,8 @@
 
 * Logistic Regression
 
+* Least Squares Regression
+
 * Ridge Regression
 
 * SVM
